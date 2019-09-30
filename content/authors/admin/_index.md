@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Texts and Technology Student
+    institution: University of Central Florida
+    year: 2023
   - course: MA in Arts, Technology, and Emerging Communication
     institution: University of Texas at Dallas
     year: 2019
