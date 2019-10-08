@@ -21,9 +21,16 @@ subtitle = ""
   description = "90%"
 
   [[feature]]
-  icon = "zotero"
-  icon_pack = "ai"
-  name = "zotero"
-  description = "90%"
+  icon = "d-and-d"
+  icon_pack = "fab"
+  name = "Role Playing Games"
+  description = "100%"
+
+  [[feature]]
+  icon = "d-and-d"
+  icon_pack = "fab"
+  name = "Role Playing Games"
+  description = "100%"
+
 
 +++
