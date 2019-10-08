@@ -20,6 +20,10 @@ subtitle = ""
   name = "zotero"
   description = "90%"
 
-
+  [[feature]]
+  icon = "zotero"
+  icon_pack = "ai"
+  name = "zotero"
+  description = "90%"
 
 +++
