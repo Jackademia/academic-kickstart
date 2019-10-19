@@ -35,6 +35,6 @@ date_format = "Jan 2006"
   location = "Texas"
   date_start = "2017-08-08"
   date_end = "2018-08-08"
-  description = """Developed interactive experiences in Unity3D."""
+  description = """Developed interactive experiences in the Unity game engine."""
 
 +++
