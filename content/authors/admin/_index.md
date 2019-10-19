@@ -64,5 +64,6 @@ email: ""
 
 ---
 
-Jack Murray asks you to be patient while the website is under construction.
-In the mean time. Play more Games!
+Jack Murray is currently a PhD student in the Texts and Technology program at the University of Central Florida.
+He received his Masters of Arts in Art, Technology, and Emerging Communication and B.S. in Software Engineering from the University of Texas at Dallas.
+Jack's research interests include game design and development and analog and digital play. 
