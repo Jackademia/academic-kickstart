@@ -14,17 +14,30 @@ subtitle = ""
 #
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "zotero"
-  icon_pack = "ai"
-  name = "zotero"
-  description = "90%"
 
   [[feature]]
-  icon = "d-and-d"
+  icon = "dice"
+  icon_pack = "fas"
+  name = "Game Design"
+  description = "Analog and Digital Games"
+
+  [[feature]]
+  icon = "gamepad"
+  icon_pack = "fas"
+  name = "Game Development"
+  description = "Engineering and Production"
+
+  [[feature]]
+  icon = "vr-cardboard"
+  icon_pack = "fas"
+  name = "VR/AR Development"
+  description = "Virtual and Augmented Reality Experiences"
+
+  [[feature]]
+  icon = "java"
   icon_pack = "fab"
-  name = "Role Playing Games"
-  description = "100%"
+  name = "Software Engineering"
+  description = "Java, C#, etc. "
 
 
 
