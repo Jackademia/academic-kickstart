@@ -26,11 +26,7 @@ subtitle = ""
   name = "Role Playing Games"
   description = "100%"
 
-  [[feature]]
-  icon = "d-and-d"
-  icon_pack = "fab"
-  name = "Role Playing Games"
-  description = "100%"
+
 
 
 +++
