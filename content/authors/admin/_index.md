@@ -51,9 +51,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/CV_Murray2019.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,4 +66,4 @@ email: ""
 
 Jack Murray is currently a PhD student in the Texts and Technology program at the University of Central Florida.
 He received his Masters of Arts in Art, Technology, and Emerging Communication and B.S. in Software Engineering from the University of Texas at Dallas.
-Jack's research interests include game design and development and analog and digital play. 
+Jack's research interests include game design and development and analog and digital play.
