@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Live Action Role Playing: Narrative and the Boundaries of Play"
-event: PLAY Conference
+title: "Masters Showcase: Massively Multiplayer Offline Games"
+event: UTD ATEC Masters Showcase
 event_url:
-location: Texas Tech University
+location: University of Texas at Dallas
 address:
   street:
   city:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-04-13T19:56:44-04:00
-#date_end: 2019-10-19T14:09:28-04:00
+date: 2019-04-26T19:56:44-04:00
+#date_end: 2019-10-26T19:56:44-04:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-10-19T14:09:28-04:00
+publishDate: 2019-10-21T19:56:44-04:00
 
 authors: []
 tags: []
