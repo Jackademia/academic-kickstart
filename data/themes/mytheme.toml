@@ -16,5 +16,3 @@ menu_title = "rgb(153, 153, 153)"
 # Home sections
 home_section_odd = "rgb(29, 33, 39)"
 home_section_even = "rgb(29, 33, 39)"
-
-font = "classic"
