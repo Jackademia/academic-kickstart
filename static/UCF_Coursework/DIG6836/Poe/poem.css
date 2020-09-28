@@ -1,0 +1,29 @@
+.menu
+{
+    position: fixed;
+    top: 0%;
+    right: 0%;
+    width: 50%
+}
+
+#main
+{
+    font-size: 1.5em;
+    line-height: 2;
+}
+
+.gradient{
+   min-height: 100%;
+    background-image: linear-gradient(white,black);
+}
+
+html{
+    min-height: 100%;
+}
+
+.strokeText{
+    -webkit-text-fill-color: red;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: black;
+    
+}
