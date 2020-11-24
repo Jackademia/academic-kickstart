@@ -23,6 +23,12 @@ bio: Games and stuff
 interests:
 - Game Design and development
 - Analog and Digital Game Studies
+- Technology and Platform Studies
+- Affect and Queer Theory
+- Board Games
+- Esports
+- Werewolves
+
 
 
 education:
@@ -53,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/CV_Murray2019.pdf
+  link: files/CV_Murray.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,4 +72,4 @@ email: ""
 
 Jack Murray is currently a PhD student in the Texts and Technology program at the University of Central Florida.
 He received his Masters of Arts in Art, Technology, and Emerging Communication and B.S. in Software Engineering from the University of Texas at Dallas.
-Jack's research interests include game design and development, analog and digital play, and esports communities.
+Jack's research interests include game design and development, analog and digital play, and esports communities. Jack's current research is focused on the intersection of analog and digital games, the affective potential of games, and the relationship between games and computing technology.  When not working on research, game projects, and complaining about board games, Jack likes to race cars, sword fight, and lay on the floor with his dog, Kiska. 

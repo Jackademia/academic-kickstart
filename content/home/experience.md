@@ -17,6 +17,31 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Graduate Teaching Associate"
+  company = "University of Central Florida, Games and Interactive Media"
+  company_url = "https://communication.ucf.edu/games-and-interactive-media/"
+  location = "Orlando, Florida"
+  date_start = "2020-11-20"
+  date_end = ""
+  description = """
+  Instructor of record for Games and Interactive Media in the Nicholson School of Communication and Media at UCF.
+  Courses: Evolution of Games
+  """
+
+[[experience]]
+  title = "Graduate Research Assistant"
+  company = "CHDR@UCF"
+  company_url = "https://chdr.cah.ucf.edu/"
+  location = "Orlando, Florida"
+  date_start = "2020-08-08"
+  date_end = ""
+  description = """
+  Research Assistant in the Center for Humanities and Digital Research at UCF.
+  Game Design and Development Specialist.
+  """
+
 [[experience]]
   title = "Graduate Teaching Assistant"
   company = "University of Texas at Dallas"
