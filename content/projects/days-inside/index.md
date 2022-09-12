@@ -9,7 +9,7 @@ categories: []
 date: 2020-11-24T16:40:49-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "files/play/days_inside.html"
+external_link: "files/play/days_inside"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
