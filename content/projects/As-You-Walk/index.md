@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Different Strokes"
-summary: "Analog game about mixing colors, patterns, and collaborative art."
+title: "As You Walk"
+summary: "Parser based Interactive Fiction written in Inform7. Wander through a procedurally generated, text-based, desert reflecting on the passage of time and space."
 authors: []
-tags: [Analog, Playable]
+tags: [Digital, Playable]
 categories: []
 date: 2020-11-24T16:40:49-05:00
 
