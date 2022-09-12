@@ -21,25 +21,25 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+ [[content.filter_button]]
+  name = "All"
+  tag = "*"
 
-  # [[content.filter_button]]
-  #   name = "Analog Games"
-  #   tag = "Analog"
+  [[content.filter_button]]
+  name = "Analog Games"
+  tag = "Analog"
 
-  # [[content.filter_button]]
-  #   name = "Digital Games"
-  #   tag = "Digital"
+  [[content.filter_button]]
+  name = "Digital Games"
+  tag = "Digital"
 
-  # [[content.filter_button]]
-  #   name = "Weird Controllers"
-  #   tag = "Controllers"
+  [[content.filter_button]]
+  name = "Weird Controllers"
+  tag = "Controllers"
 
-  # [[content.filter_button]]
-  #   name = "Playable"
-  #   tag = "Playable"
+   [[content.filter_button]]
+   name = "Playable"
+   tag = "Playable"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

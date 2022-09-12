@@ -19,19 +19,24 @@ url = "#experience"
 weight = 30
 
 [[main]]
-name = "Talks"
-url = "#talks"
+name = "Publications"
+url = "#publications"
 weight = 40
 
 [[main]]
-name = "Publications"
-url = "#publications"
+name = "Talks"
+url = "#talks"
 weight = 50
+
+[[main]]
+name = "Projects"
+url = "#projects"
+weight = 60
 
 [[main]]
 name = "Contact"
 url = "#contact"
-weight = 60
+weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
