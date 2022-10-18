@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "As You Walk"
+title: "Different Strokes"
 summary: "A board game about mixing paint and creating collaborative art. Print and Play PDF available. "
 authors: []
-tags: [analog, Playable]
+tags: [Analog, Playable]
 categories: []
 date: 2020-11-24T16:40:49-05:00
 
@@ -15,20 +15,20 @@ date: 2020-11-24T16:40:49-05:00
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Photo of Different Strokes Playtest in progress"
+  focal_point: "Top"
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Sell Sheet
+   url: ./DifferentStrokes-Sell.pdf
+   icon_pack: ai
+   icon: PDF
 
 url_code: ""
-url_pdf: ""
+url_pdf: "/play/different-strokes.pdf"
 url_slides: ""
 url_video: ""
 
