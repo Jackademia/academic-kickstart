@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Days Inside"
-summary: "A short interactive fiction game made in Bitsy exploring the difficulties of Lockdown in 2020 "
+summary: "A short interactive fiction game made in Bitsy exploring the difficulties of Lockdown in 2020. "
 authors: []
 tags: [Digital, Playable]
 categories: []

@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Freedom Financial Touch Wall"
-summary: "UI and Interaction programming for a project by 900lbs"
+title: "BSA Northern Star Leadership Experience"
+summary: "Gameplay and UI Programming for 900lbs collaboration with Northern Star Scout Camp"
 authors: []
-tags: [Digital, Playable]
+tags: [Digital]
 categories: []
 date: 2020-11-24T16:40:49-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://900lbs.com/portfolio/freedom-financial-touch-wall/"
+external_link: "https://900lbs.com/portfolio/bsa-leadership-reimagined-experience/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

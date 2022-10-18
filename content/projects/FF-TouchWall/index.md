@@ -4,7 +4,7 @@
 title: "Freedom Financial Touch Wall"
 summary: "UI and Interaction programming for a project by 900lbs"
 authors: []
-tags: [Digital, Playable]
+tags: [Digital]
 categories: []
 date: 2020-11-24T16:40:49-05:00
 
