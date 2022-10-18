@@ -21,7 +21,7 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
+links:
 - name: Sell Sheet
   url: DifferentStrokes-Sell.pdf
   icon_pack: fab
