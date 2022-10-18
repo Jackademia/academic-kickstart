@@ -16,16 +16,16 @@ date: 2020-11-24T16:40:49-05:00
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "Photo of Different Strokes Playtest in progress"
-  focal_point: "Top"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 #links:
-#- name: Sell Sheet
-#   url: "./DifferentStrokes-Sell.pdf"
-  # icon_pack: ai
-  # icon: pdf
+- name: Sell Sheet
+  url: DifferentStrokes-Sell.pdf
+  icon_pack: fab
+  icon: twitter
 
 url_code: ""
 url_pdf: "/play/different-strokes.pdf"
