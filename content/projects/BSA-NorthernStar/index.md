@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Panopticon"
-summary: "Worked as a programmer for this project from UTD's Narrative Systems Lab. A 2.5D platformer made in Unity 3D. Link to Trailer."
+title: "Freedom Financial Touch Wall"
+summary: "UI and Interaction programming for a project by 900lbs"
 authors: []
-tags: [Digital]
+tags: [Digital, Playable]
 categories: []
 date: 2020-11-24T16:40:49-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://youtu.be/uzJN9NCPR4U"
+external_link: "https://900lbs.com/portfolio/freedom-financial-touch-wall/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
