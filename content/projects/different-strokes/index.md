@@ -24,8 +24,7 @@ image:
 links:
 - name: Sell Sheet
   url: DifferentStrokes-Sell.pdf
-  icon_pack: fab
-  icon: twitter
+
 
 url_code: ""
 url_pdf: "/play/different-strokes.pdf"
