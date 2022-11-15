@@ -1,34 +1,32 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Freedom Financial Touch Wall"
-summary: "UI and Interaction programming for a project by 900lbs"
+title: "Kobold Wild Wingss"
+summary: "A 1 page RPG about Kobolds running a sports bar. Featuring Art by Taryn Henry "
 authors: []
-tags: [Digital]
+tags: [Analog, Playable]
 categories: []
 date: 2020-11-24T16:40:49-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://900lbs.com/portfolio/freedom-financial-touch-wall/"
+# external_link: "/play/different-strokes.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Image of the KWW rules"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+
+
 
 url_code: ""
-url_pdf: ""
+url_pdf: "/play/KWW.pdf"
 url_slides: ""
 url_video: ""
 
@@ -39,3 +37,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Coming Soon
