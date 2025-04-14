@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Texts and Technology PhD Student
+role: Assistant Professor of Game Design
 
 # Organizations/Affiliations
 organizations:
-- name: University of Central Florida
-  url: ""
+- name: Bass School of Arts, Humanities, and Technology at The University of Texas at Dallas
+  url: "https://bass.utdallas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Games and stuff
@@ -70,6 +70,7 @@ email: ""
 
 ---
 
-Jack Murray is currently a PhD student in the Texts and Technology program at the University of Central Florida.
+Jack Murray is an Assistant Professor of Game Design in the Bass School of Arts, Humanities, and Technology at The University of Texas at Dallas. 
+In 2023 Jack recieved a PhD in Texts and Technology from the University of Central Florida.
 He received his Masters of Arts in Art, Technology, and Emerging Communication and B.S. in Software Engineering from the University of Texas at Dallas.
-Jack's research interests include game design and development, analog and digital play, and esports communities. Jack's current research is focused on the intersection of analog and digital games, the affective potential of games, and the relationship between games and computing technology.  When not working on research, game projects, and complaining about board games, Jack likes to race cars, sword fight, and lay on the floor with his dog, Kiska. 
+Jack's research interests include game design and development, analog and digital play, and esports communities. Jack's current research is focused on the intersection of analog and digital games, the affective potential of games, and the relationship between games and computing technology.  When not working on research, game projects, and complaining about board games, Jack likes to race cars, and lay on the floor with his dog, Kiska. Jack is also an instructor at the Dallas School of Historical Fencing. 
