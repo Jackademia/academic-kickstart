@@ -14,7 +14,7 @@ role: Assistant Professor of Game Design
 
 # Organizations/Affiliations
 organizations:
-- name: Bass School of Arts, Humanities, and Technology at The University of Texas at Dallas
+- name: Bass School of Arts Humanities and Technology at The University of Texas at Dallas
   url: "https://bass.utdallas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
